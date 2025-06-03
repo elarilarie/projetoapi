@@ -1,4 +1,3 @@
-
 API REST simples para conversão de moedas, feita em Java e Spring Boot. Feito com o objetivo de um projeto para faculdade. 
 
 Para rodar precisa: 
