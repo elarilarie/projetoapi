@@ -1,0 +1,34 @@
+currency-converter-api/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── currencyconverterapi/
+│   │   │               ├── controller/
+│   │   │               │   └── CurrencyConverterController.java
+│   │   │               └── CurrencyConverterApiApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── .gitignore
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── README.md
+currency-converter-api/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── currencyconverterapi/
+│   │   │               ├── controller/
+│   │   │               │   └── CurrencyConverterController.java
+│   │   │               └── CurrencyConverterApiApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── .gitignore
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── README.md
